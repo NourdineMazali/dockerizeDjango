@@ -1,0 +1,47 @@
+.btn{
+  white-space: normal;
+  word-wrap: break-word;
+  height: auto;
+}
+
+.float-right.d-none.d-sm-inline {
+  visibility: hidden;
+}
+
+.content-header{
+  visibility: hidden;
+  height: 10px;
+}
+
+#search_group, #searchbar{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-header > .card-title{
+  width: 100%;
+}
+
+.fas.fa-chevron-right{
+  float:right;
+}
+
+.fas.fa-eye{
+  padding-right: 10px;
+}
+
+.rotate{
+  -moz-transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.rotate.down{
+  -moz-transform:rotate(90deg);
+  -webkit-transform:rotate(90deg);
+  transform:rotate(90deg);
+}
+
+.btn.btn-sm.btn-outline-info.btn-flat.changelink{
+  visibility: hidden;
+}
